@@ -1,1 +1,1 @@
-# portfolio
+These projects are made for learn Web Development using React and Node.
